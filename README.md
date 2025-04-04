@@ -48,7 +48,7 @@ This project focuses on building a **binary classification model** to predict wh
 
 ---
 
-## Connect Me
+## 📞 Connect Me
 
 For any queries or collaboration opportunities, feel free to reach out:  
 
